@@ -15,20 +15,37 @@ Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to
     * Bert
 
 ## Pre-requisites/Prior knowledge 
-  * Week 1: 
+  * 16A:
+    * Vector Space
+    * Linear Transformation
+    * Eigendecomposition
+    * Classification
+  * 16B: 
+    * Multivariate Differential
+  * 61B:
+    * Classes/Object Methods
+    * Lists/Arrays
+  * 16ML - Week 1: 
     * NumPy
     * Pandas 
-  * Week 2: 
+  * 16ML - Week 2: 
     * Spliting training/test data
-    * Scikit-Learn for classification task 
+    * Scikit-Learn (SVM) for classification task 
     * Implementing Stochastic Gradient Descent (for Word2Vec, GloVe and Bert)
-  * Week 3: 
+  * 16ML - Week 3: 
     * SVD/PCA for dimension reduction
 
 ## Repository Usage
-  Clone this repository to your personal workspace
-  ```
-  git clone https://github.com/yux121/EECS289_Final_Project_T.git
-  ```
 
-  Open Assignment_solution.ipynb to fully run the assignment
+  1. Clone this repository to your personal workspace.
+  ```
+    git clone https://github.com/yux121/EECS289_Final_Project_T.git
+  ```
+  
+  2. Download Data.zip[link] that includes data files, place it inside `Assignment/`, then unzip.
+  
+  3. Read `Notes.pdf` for necessary concepts to complete the assignment.
+  
+  4. Inside `Quiz/`, use `Quiz.pdf` along with `Quiz_solution.pdf` to test your knowledge.
+  
+  5. Inside `Assignment/`, complete `Assignment.ipynb` and use `Assignment_solution.ipynb` to self-assess performance.

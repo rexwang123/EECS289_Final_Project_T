@@ -30,3 +30,5 @@ Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to
   ```
   git clone https://github.com/yux121/EECS289_Final_Project_T.git
   ```
+
+  Open Assignment_solution.ipynb to fully run the assignment

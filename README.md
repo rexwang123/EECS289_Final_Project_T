@@ -14,13 +14,13 @@ Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to
     * GloVe (need Co-occuranc matrix)
     * Bert
 
-## Pre-requisite/Prior knowledge 
+## Pre-requisites/Prior knowledge 
   * Week 1: 
     * NumPy
     * Pandas 
   * Week 2: 
     * Spliting training/test data
-    * cikit-Learn for classification task 
+    * Scikit-Learn for classification task 
     * Implementing Stochastic Gradient Descent (for Word2Vec, GloVe and Bert)
   * Week 3: 
-    * SVD/PCA used to reduce dimension 
+    * SVD/PCA for dimension reduction

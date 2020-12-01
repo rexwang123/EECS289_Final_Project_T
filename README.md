@@ -26,4 +26,7 @@ Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to
     * SVD/PCA for dimension reduction
 
 ## Repository Usage
-  `https://github.com/yux121/EECS289_Final_Project_T.git`
+  Clone this repository to your personal workspace
+  ```
+  git clone https://github.com/yux121/EECS289_Final_Project_T.git
+  ```

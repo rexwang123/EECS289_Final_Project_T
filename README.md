@@ -1,4 +1,4 @@
-# EECS289_Final_Project_T
+# Word Embedding
 Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to transform text into fixed-length and numerical form that computer algorithms favor, and at the same time retaining the rich meanings included in the context, several word embedding techniques have been developed to meet the challenge. Assuming prior knowledge in vector space, multivariate differential, PCA/SVD, and fundamental understanding of classification tasks from EECS 16A/B, CS 61B, and previous weeks in EECS 16ML, we hope students to understand both types of count-based and predictive methods along with several popular algorithms with our repository. 
 
 ## Learning Objective

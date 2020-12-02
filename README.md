@@ -31,9 +31,16 @@ Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to
   * 16ML - Week 2: 
     * Spliting training/test data
     * Scikit-Learn (SVM) for classification task 
-    * Implementing Stochastic Gradient Descent (for Word2Vec, GloVe and Bert)
+    * Implementing Stochastic Gradient Descent (for Word2Vec, GloVe)
   * 16ML - Week 3: 
     * SVD/PCA for dimension reduction
+  * 16ML - Week 5:
+    * Intro to MLP's (for Word2Vec)
+    * Implementing Backpropagation (for Word2Vec)
+  * 16ML - Week 8:
+    * How to use pre-trained models  (for Bert)
+    * Pytorch/Tensorflow Tutorial (for Bert)
+  
 
 ## Repository Usage
 

@@ -11,7 +11,7 @@ Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to
   
   * Predictive
     * Word2Vec
-    * GloVe (need Co-occuranc matrix)
+    * GloVe (need Co-occurrence matrix)
     * Bert
 
 ## Pre-requisites/Prior knowledge 

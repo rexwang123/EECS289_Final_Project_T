@@ -42,7 +42,7 @@ Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to
     git clone https://github.com/yux121/EECS289_Final_Project_T.git
   ```
   
-  2. Download [Data.zip](https://drive.google.com/drive/folders/1i0pgUO43uToTA1QUp8DVUFAeDcOLNocD?usp=sharing) that includes data files, place it inside `Assignment/`, then unzip.
+  2. Download the whole [Data folder](https://drive.google.com/drive/folders/1i0pgUO43uToTA1QUp8DVUFAeDcOLNocD?usp=sharing) that includes data files, place it inside `Assignment/`, then unzip.
   
   3. Read `Notes.pdf` and `Slides.pdf` for necessary concepts to complete the assignment.
   

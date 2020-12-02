@@ -44,7 +44,7 @@ Week 10 of EECS16ML covers the topic of Natural Language Processing. In order to
   
   2. Download [Data.zip](link) that includes data files, place it inside `Assignment/`, then unzip.
   
-  3. Read `Notes.pdf` for necessary concepts to complete the assignment.
+  3. Read `Notes.pdf`  for necessary concepts to complete the assignment.
   
   4. Inside `Quiz/`, use `Quiz.pdf` along with `Quiz_solution.pdf` to test your knowledge.
   

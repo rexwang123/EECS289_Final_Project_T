@@ -64,16 +64,17 @@ repository.
 ## Updates
 
 * Notes and Slides:
-  * Add transition/motivation between frequency-based approaches and predictive models
-  * Add CBOW/Skip Gram use case comparison in Word2Vec
+  * Added transition/motivation between count-based approaches and predictive models
+  * Added CBOW/Skip Gram use case comparison in Word2Vec
 * Assignments:
-  * Add an overview of the whole assignment at the beginning
-  * Comment/explain more on data cleaning process 
-  * Add more text transition for the whole assignment in general
-  * Remove parts of BoW implementation to avoid overlapping with BoW team
-  * Reword BoW part and ask students to compare results of different n-grams
-  * Add confusion matrix visualizations
-  * Add a section in Word2Vec to compare results of CBOW and Skip Gram
-  * Add visualizations of loss/accuracy vs #epoch trained
+  * Added an overview of the whole assignment at the beginning
+  * Provided more comments/explanations on data cleaning process 
+  * Added more comments/explanations for transitions for the whole assignment in general
+  * Removed parts of BoW implementation to avoid overlapping with BoW team
+  * Reworded BoW part and ask students to compare results of different n-grams
+  * Added confusion matrix visualizations
+  * Added visualizations of loss vs #epoch trained
+  * Provided comparison between CBOW and Skip Gram by two ways: 1) let them predict close words respectively. 2) use them as different embedding methods for classification task
+
   
 
